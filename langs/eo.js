@@ -1,4 +1,4 @@
-tinymce.addI18n('ca',{
+tinymce.addI18n('eo',{
 "Cut": "Retalla",
 "Heading 5": "Encap\u00e7alament 5",
 "Header 2": "Cap\u00e7alera 2",
